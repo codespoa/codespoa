@@ -20,8 +20,7 @@ an eternal student and always looking to evolve as a professional and as a perso
 
 ### Tech
 
-* [Javascript] - Node || React Native || ReactJS || Express || Jquery 
-* [PHP] - Laravel || CakePHP
+* [Javascript] - Node || React Native || ReactJS || Express
 * [Database] - Mysql || PostresSQL || MongoDB
 * [Docker]
 * [HTML]
