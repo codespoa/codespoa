@@ -20,9 +20,13 @@ an eternal student and always looking to evolve as a professional and as a perso
 
 ### Tech
 
-* [Javascript] - Node || React Native || ReactJS || Express
+* [Javascript] - Node || ReactJS || Express
 * [Database] - Mysql || PostresSQL || MongoDB
+* [Typescript]
 * [Docker]
+* [Jest]
+* [Linux]
+* [Git]
 * [HTML]
 * [CSS] - Sass || Less
 * [Task Runner] - Gulp || Grunt
