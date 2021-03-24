@@ -25,6 +25,7 @@ an eternal student and always looking to evolve as a professional and as a perso
 * [Typescript]
 * [Docker]
 * [Jest]
+* [Devops]
 * [Linux]
 * [Git]
 * [HTML]
