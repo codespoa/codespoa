@@ -15,8 +15,7 @@
 ## Carlos Eduardo Alves
 
 ### About me
-- Computer lover and addicted to coffee with cinnamon, a person who has doubled up on the front end and is falling more and more in love with the back end,
-an eternal student and always looking to evolve as a professional and as a person, focused on delivery goals and helping whenever I can, a person who loves to communicate with everyone, well this is my pleasure.
+- Computer lover and addicted to coffee with cinnamon, always working my love for problem solving and back-end, a person who loves to give and listen to new ideas, always willing to learn new things, communication and something I love, well this It's me.
 
 ### Tech
 
