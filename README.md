@@ -19,14 +19,14 @@
 
 ### Tech
 
-* [Javascript] - Node || ReactJS || Express
+* [Javascript] - Node || ReactJS || Express || React Native 
 * [Database] - Mysql || PostresSQL || MongoDB
 * [Typescript]
 * [Docker]
-* [Jest]
+* [Test] - Jest || Supertest
 * [Devops]
 * [Linux]
 * [Git]
-* [HTML]
-* [CSS] - Sass || Less
-* [Task Runner] - Gulp || Grunt
+* [AWS] - SQS || SNS
+* [Design Patterns]
+* [Other Languages] - PHP
